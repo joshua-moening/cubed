@@ -13,7 +13,7 @@ function setupAsciify() {
 }
 
 function setup() {
-    createCanvas(400, 400, WEBGL);
+    createCanvas(1000, 1000, WEBGL);
     //ascii = new P5Ascify();
 }
 
